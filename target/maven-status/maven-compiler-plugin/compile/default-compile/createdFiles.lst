@@ -1,0 +1,4 @@
+com\cat\notification\NotificationRepository.class
+com\cat\notification\Notification.class
+com\cat\notification\NotificationController.class
+com\cat\notification\NotificationApplication.class
